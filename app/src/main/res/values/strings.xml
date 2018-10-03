@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Pacman</string>
+    <string name="points">Points:</string>
+    <string name="move_right">Right</string>
+    <string name="action_settings">Settings</string>
+    <string name="newgame">New Game</string>
+    <string name="move_left">Left</string>
+    <string name="move_up">Up</string>
+    <string name="move_down">Down</string>
+    <string name="time">Time</string>
+    <string name="pause">Pause</string>
+    <string name="resume_game">Resume</string>
+    <string name="new_game">New game</string>
+    <string name="paused_game">What will you do now?</string>
+    <string name="welcome">Welcome to Pacman. Press \"New game\" to start a new game.</string>
+    <string name="level">Level</string>
+    <string name="game_over">Game over! You have lost.</string>
+    <string name="stop">Stop game</string>
+    <string name="next_level">Next level</string>
+</resources>
